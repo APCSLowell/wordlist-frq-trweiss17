@@ -28,7 +28,6 @@ for(int i=0; i< myList.size(); i++){
     myList.remove(i);
     i--;
   }
-}
-    return myList;
   }
+}
 }
